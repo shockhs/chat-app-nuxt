@@ -168,7 +168,20 @@
     },
     {
       "name": "Andromeda",
+      "users": [
+        "Alex",
+        "safsa",
+        "ffff",
+        "dfsda",
+        "аыфаф"
+      ],
       "messages": [
+        {
+          "roomId": "1594402520860",
+          "date": "2020-07-10T18:36:54.835Z",
+          "text": "ыфа",
+          "username": "аыфаф"
+        },
         {
           "roomId": "1594402520860",
           "date": "2020-07-10T17:51:59.186Z",
@@ -181,12 +194,6 @@
           "text": "safasfsa",
           "username": "safsa"
         }
-      ],
-      "users": [
-        "Alex",
-        "safsa",
-        "ffff",
-        "dfsda"
       ],
       "id": 1594402520860
     },
