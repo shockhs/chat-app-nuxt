@@ -1,0 +1,208 @@
+{
+  "rooms": [
+    {
+      "name": "Room#1",
+      "users": [
+        "Andrei",
+        "Dima",
+        "Alex",
+        "Alesha",
+        "Inga",
+        "FSAF",
+        "aleeex",
+        "zxvx",
+        "sdgs",
+        "aaaa",
+        "aaaa",
+        "aaaa",
+        "aaaa",
+        "ajjjj",
+        "dsfg",
+        "saf",
+        "aad"
+      ],
+      "messages": [
+        {
+          "roomId": "1",
+          "date": "2020-07-10T17:52:13.074Z",
+          "text": "214",
+          "username": "aad"
+        },
+        {
+          "roomId": "1",
+          "date": "2020-07-10T17:52:08.915Z",
+          "text": "sdg",
+          "username": "aad"
+        },
+        {
+          "roomId": "1",
+          "date": "2020-07-10T17:02:07.330Z",
+          "text": "214",
+          "username": "saf"
+        },
+        {
+          "roomId": "1",
+          "date": "2020-07-10T17:02:04.306Z",
+          "text": "fsaf",
+          "username": "saf"
+        },
+        {
+          "roomId": "1",
+          "date": "2020-07-10T17:01:31.033Z",
+          "text": "421",
+          "username": "dsfg"
+        },
+        {
+          "roomId": "1",
+          "date": "2020-07-10T17:01:26.489Z",
+          "text": "fsafsaf",
+          "username": "dsfg"
+        },
+        {
+          "roomId": 1,
+          "date": "2020-07-09T20:25:43.511Z",
+          "text": "Hello",
+          "username": "Andrei"
+        },
+        {
+          "roomId": 1,
+          "date": "2020-07-09T20:26:43.511Z",
+          "text": "Привет",
+          "username": "Dima"
+        },
+        {
+          "roomId": 1,
+          "date": "2020-07-09T20:26:43.511Z",
+          "text": "Привет",
+          "username": "Dima555"
+        },
+        {
+          "roomId": 1,
+          "date": "2020-07-09T20:26:43.511Z",
+          "text": "Привет",
+          "username": "Di12ma"
+        },
+        {
+          "roomId": 1,
+          "date": "2020-07-09T20:26:43.511Z",
+          "text": "Привет",
+          "username": "D5125ima"
+        },
+        {
+          "roomId": 1,
+          "date": "2020-07-09T20:26:43.511Z",
+          "text": "Привет",
+          "username": "Di314ma"
+        },
+        {
+          "roomId": 1,
+          "date": "2020-07-09T20:26:43.511Z",
+          "text": "Привет",
+          "username": "Di31111234ma"
+        },
+        {
+          "roomId": 1,
+          "date": "2020-07-09T20:26:43.511Z",
+          "text": "Привет",
+          "username": "Di35514ma"
+        },
+        {
+          "roomId": 1,
+          "date": "2020-07-09T20:26:43.511Z",
+          "text": "Привет",
+          "username": "D12222ima"
+        },
+        {
+          "roomId": 1,
+          "date": "2020-07-09T20:26:43.511Z",
+          "text": "Привет",
+          "username": "Dvxzv222ima"
+        },
+        {
+          "roomId": 1,
+          "date": "2020-07-09T20:26:43.511Z",
+          "text": "Привет",
+          "username": "D222ima"
+        },
+        {
+          "roomId": 1,
+          "date": "2020-07-09T20:26:43.511Z",
+          "text": "Привет",
+          "username": "D2te2ima"
+        },
+        {
+          "roomId": 1,
+          "date": "2020-07-09T20:26:43.511Z",
+          "text": "Привет",
+          "username": "D24422ima"
+        },
+        {
+          "roomId": 1,
+          "date": "2020-07-09T20:26:43.511Z",
+          "text": "Привет",
+          "username": "D266622ima"
+        },
+        {
+          "roomId": 1,
+          "date": "2020-07-09T20:26:43.511Z",
+          "text": "Привет",
+          "username": "D211122ima"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "heeeery",
+      "users": [
+        "safsa"
+      ],
+      "messages": [
+        {
+          "roomId": "1594401789003",
+          "date": "2020-07-10T17:23:25.354Z",
+          "text": "sfafs",
+          "username": "safsa"
+        }
+      ],
+      "id": 1594401789003
+    },
+    {
+      "name": "Andromeda",
+      "users": [
+        "Alex",
+        "safsa",
+        "ffff"
+      ],
+      "messages": [
+        {
+          "roomId": "1594402520860",
+          "date": "2020-07-10T17:51:59.186Z",
+          "text": "fsfa",
+          "username": "ffff"
+        },
+        {
+          "roomId": "1594402520860",
+          "date": "2020-07-10T17:49:56.346Z",
+          "text": "safasfsa",
+          "username": "safsa"
+        }
+      ],
+      "id": 1594402520860
+    },
+    {
+      "name": "next",
+      "users": [
+        "alex"
+      ],
+      "messages": [
+        {
+          "roomId": "1594403541570",
+          "date": "2020-07-10T17:52:28.170Z",
+          "text": "fff",
+          "username": "alex"
+        }
+      ],
+      "id": 1594403541570
+    }
+  ]
+}

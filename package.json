@@ -1,0 +1,31 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "json-server chat-app",
+  "author": "Vagan Mkrtchyan<perfoma777@mail.ru>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint",
+    "mock": "json-server -w db.json -p 4200 -d 450"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.11.0",
+    "axios": "^0.19.2",
+    "nuxt": "^2.0.0",
+    "sass": "^1.26.10",
+    "sass-loader": "^9.0.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/moment": "^1.6.1",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^4.19.1",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^4.0.0"
+  }
+}
