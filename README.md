@@ -1,6 +1,6 @@
-# {{ name }}
+# chat-app
 
-> {{ description }}
+> json-server chat-app
 
 ## Build Setup
 
