@@ -24,7 +24,6 @@ module.exports = {
     '@nuxtjs/axios',
     '@nuxtjs/moment'
   ],
-  plugins: ['~plugins/vue-chat-scroll'],
   /*
   ** Build configuration
   */
