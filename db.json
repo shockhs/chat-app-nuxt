@@ -168,11 +168,6 @@
     },
     {
       "name": "Andromeda",
-      "users": [
-        "Alex",
-        "safsa",
-        "ffff"
-      ],
       "messages": [
         {
           "roomId": "1594402520860",
@@ -186,6 +181,12 @@
           "text": "safasfsa",
           "username": "safsa"
         }
+      ],
+      "users": [
+        "Alex",
+        "safsa",
+        "ffff",
+        "dfsda"
       ],
       "id": 1594402520860
     },

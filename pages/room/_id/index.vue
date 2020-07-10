@@ -6,7 +6,7 @@
       <span v-if="error">{{error}}</span>
       <button :disabled="isFetching || username.length === 0" type="submit">Войти</button>
     </form>
-    <div v-else>
+    <div v-else class="error">
       <h1>404</h1>
       <h4>Комната не найдена</h4>
       <nuxt-link to="/">На главную страницу</nuxt-link>
@@ -87,6 +87,12 @@ export default {
 </script>
 
 <style lang='scss' scoped>
+.error {
+  color: #fff;
+  h1 {
+    font-size: 2.5rem;
+  }
+}
 main {
   width: 100%;
   height: 100vh;
